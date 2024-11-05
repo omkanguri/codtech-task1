@@ -1,0 +1,16 @@
+const int ledPin = 9;
+const int blinkInterval = 1000;
+void setup() 
+{
+ 
+  pinMode(ledPin, OUTPUT);
+}
+
+void loop() 
+{
+  
+  digitalWrite(ledPin, HIGH);
+  delay(blinkInterval);
+  digitalWrite(ledPin, LOW);
+  delay(blinkInterval);
+}
