@@ -1,7 +1,7 @@
 Name:Om Kanguri
 Company: CODTECH IT SOLUTIONS
 ID:CT08DS9137
-Domain:Web Development
+Domain:Embedded System
 Duration:10/oct-10/nov 2024
 Mentor:
 Overview of the project
